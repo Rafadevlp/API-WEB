@@ -1,0 +1,93 @@
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.exe
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.deps.json
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.pdb
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AulaApp.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AulaApp.pdb
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\scopedcss\bundle\AtacadoAPI.styles.css
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.CopyComplete
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\refint\AtacadoAPI.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.pdb
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\ref\AtacadoAPI.dll
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.xml
+C:\Users\Aluno\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.xml
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.exe
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.deps.json
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.runtimeconfig.json
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.pdb
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.xml
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AulaApp.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\bin\Debug\net6.0\AulaApp.pdb
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\scopedcss\bundle\AtacadoAPI.styles.css
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.CopyComplete
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\refint\AtacadoAPI.dll
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.xml
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.pdb
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\TRABALHO\AtacadoAPI\obj\Debug\net6.0\ref\AtacadoAPI.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\appsettings.json
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.exe
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.deps.json
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.runtimeconfig.json
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.pdb
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AtacadoAPI.xml
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AulaApp.dll
+D:\API Rest\AtacadoAPI\bin\Debug\net6.0\AulaApp.pdb
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.AssemblyReference.cache
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.AssemblyInfoInputs.cache
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.AssemblyInfo.cs
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.CoreCompileInputs.cache
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\scopedcss\bundle\AtacadoAPI.styles.css
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.csproj.CopyComplete
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.dll
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\refint\AtacadoAPI.dll
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.xml
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.pdb
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\AtacadoAPI.genruntimeconfig.cache
+D:\API Rest\AtacadoAPI\obj\Debug\net6.0\ref\AtacadoAPI.dll

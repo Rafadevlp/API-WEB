@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtacadoAPI", "AtacadoAPI\AtacadoAPI.csproj", "{02737A5B-17D2-41D8-B880-7EF9AC3A7F88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaApp", "AulaApp\AulaApp.csproj", "{998BA4E7-B224-4D17-A05D-5092AFF6E991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02737A5B-17D2-41D8-B880-7EF9AC3A7F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02737A5B-17D2-41D8-B880-7EF9AC3A7F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02737A5B-17D2-41D8-B880-7EF9AC3A7F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02737A5B-17D2-41D8-B880-7EF9AC3A7F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998BA4E7-B224-4D17-A05D-5092AFF6E991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998BA4E7-B224-4D17-A05D-5092AFF6E991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998BA4E7-B224-4D17-A05D-5092AFF6E991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998BA4E7-B224-4D17-A05D-5092AFF6E991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86593D83-9706-4D93-8EB9-24BE6A16AE7A}
+	EndGlobalSection
+EndGlobal

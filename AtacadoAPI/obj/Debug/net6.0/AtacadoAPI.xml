@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AtacadoAPI</name>
+    </assembly>
+    <members>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.GetAll">
+            <summary>
+            Lista todos os registros do recurso.
+            </summary>
+            <returns> Todos os registros. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.GetByID(System.Int32)">
+            <summary>
+            Pesquisa o registro usando uma chave.
+            </summary>
+            <param name="id"> Chave de pesquisa. </param>
+            <returns>Registro localizado.</returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.GetByName(System.String)">
+            <summary>
+            Pesquisa o registro usando o nome.
+            </summary>
+            <param name="nomeParcial"> Descrição parcial. </param>
+            <returns> Registro localizado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.Post(AulaApp.Categoria)">
+            <summary>
+            Inclui um novo dado no registro.
+            </summary>
+            <param name="dados"> Dados que será incluido. </param>
+            <returns> Dados incluido. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.Put(AulaApp.Categoria)">
+            <summary>
+            Altera um dado existente no recurso.
+            </summary>
+            <param name="dados"> Altera o dado selecionado. </param>
+            <returns> Dados alterado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.Delete(AulaApp.Categoria)">
+            <summary>
+            Exclui um registro existente.
+            </summary>
+            <param name="dados"> Dado que será deletado. </param>
+            <returns> Exclui um dado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.CategoriaController.DeleteById(System.Int32)">
+            <summary>
+            Exclui um registro existente no recurso, utilizando um id.
+            </summary>
+            <param name="id">Chave para localização. </param>
+            <returns> Dado excluido por Id.</returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.GetAll">
+            <summary>
+            Lista todos os registros do recurso.
+            </summary>
+            <returns> Todos os registros. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.GetByID(System.Int32)">
+            <summary>
+            Pesquisa o registro usando uma chave.
+            </summary>
+            <param name="id"> Chave de pesquisa. </param>
+            <returns>Registro localizado.</returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.GetByName(System.String)">
+            <summary>
+            Pesquisa o registro usando o nome.
+            </summary>
+            <param name="nomeParcial"> Descrição parcial. </param>
+            <returns> Registro localizado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.GetByCategoria(System.Int32)">
+            <summary>
+            Pesquisa o registro por Categoria.
+            </summary>
+            <param name="cat"> Categoria a Localizar. </param>
+            <returns> Registro por Categoria. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.GetBySubCategoria(System.Int32)">
+            <summary>
+            Pesquisa o registro por Subcategoria.
+            </summary>
+            <param name="sub"> Subcategoria a Localizar. </param>
+            <returns> Registro por Subcategoria. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.GetByCategoriaSubcategoria(System.Int32,System.Int32)">
+            <summary>
+            Pesquisa o registro por Categoria e Subcategoria.
+            </summary>
+            <param name="cat"> Categoria a Localizar. </param>
+            <param name="sub"> Subcategoria a Localizar. </param>
+            <returns></returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.Post(AulaApp.Produto)">
+            <summary>
+            Inclui um novo dado no registro.
+            </summary>
+            <param name="dados"> Dados que será incluido. </param>
+            <returns> Dados incluido. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.Put(AulaApp.Produto)">
+            <summary>
+            Altera um dado existente no recurso.
+            </summary>
+            <param name="dados"> Altera o dado selecionado. </param>
+            <returns> Dados alterado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.Delete(AulaApp.Produto)">
+            <summary>
+            Exclui um registro existente.
+            </summary>
+            <param name="dados"> Dado que será deletado. </param>
+            <returns> Exclui um dado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.ProdutoController.DeleteById(System.Int32)">
+            <summary>
+            Exclui um registro existente no recurso, utilizando um id.
+            </summary>
+            <param name="id">Chave para localização. </param>
+            <returns> Dado excluido por Id.</returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.GetAll">
+            <summary>
+            Lista todos os registros do recurso.
+            </summary>
+            <returns> Todos os registros. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.GetByID(System.Int32)">
+            <summary>
+            Pesquisa o registro usando uma chave.
+            </summary>
+            <param name="id"> Chave de pesquisa. </param>
+            <returns>Registro localizado.</returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.GetByName(System.String)">
+            <summary>
+            Pesquisa o registro usando o nome.
+            </summary>
+            <param name="nomeParcial"> Descrição parcial. </param>
+            <returns> Registro localizado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.GetByCategoria(System.Int32)">
+            <summary>
+            Pesquisa o registro por Categoria.
+            </summary>
+            <param name="categoria"> Categoria a Localizar. </param>
+            <returns> Registro por Categoria. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.Post(AulaApp.SubCategoria)">
+            <summary>
+            Inclui um novo dado no registro.
+            </summary>
+            <param name="dados"> Dados que será incluido. </param>
+            <returns> Dados incluido. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.Put(AulaApp.SubCategoria)">
+            <summary>
+            Altera um dado existente no recurso.
+            </summary>
+            <param name="dados"> Altera o dado selecionado. </param>
+            <returns> Dados alterado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.Delete(AulaApp.SubCategoria)">
+            <summary>
+            Exclui um registro existente.
+            </summary>
+            <param name="dados"> Dado que será deletado. </param>
+            <returns> Exclui um dado. </returns>
+        </member>
+        <member name="M:AtacadoAPI.Controllers.SubCategoriaController.DeleteById(System.Int32)">
+            <summary>
+            Exclui um registro existente no recurso, utilizando um id.
+            </summary>
+            <param name="id">Chave para localização. </param>
+            <returns> Dado excluido por Id.</returns>
+        </member>
+    </members>
+</doc>
